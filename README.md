@@ -31,8 +31,8 @@ The dataset is a copy of UCI ML Wine recognition datasets. The data is the resul
 
 ### Methods
 
-	In order to discover the potential co-relation amongst alcohol and color_intensity, the method used for visualizing in two dimensions (2-D) this data was to leveragea pair-wise correlation matrix and depict is as a heatmap (can be found in [https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)). The method utilized to discover the ocurrence of the wines per class and based on those characteristics was the K-Nearest Neighbor(KNN) Classification (can be found [https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn](https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn)). 
-	In the heatmap we can see that the correlation between alcohol and color_intensity is 0.55. So, it is above average if we check the "termometre" at the right side of the figure that goes up to 1.0. 
+In order to discover the potential co-relation amongst alcohol and color_intensity, the method used for visualizing in two dimensions (2-D) this data was to leveragea pair-wise correlation matrix and depict is as a heatmap (can be found [here](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)). The method utilized to discover the ocurrence of the wines per class and based on those characteristics was the K-Nearest Neighbor(KNN) Classification (can be found [here](https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn)). 
+In the heatmap we can see that the correlation between alcohol and color_intensity is 0.55. So, it is above average if we check the "termometre" at the right side of the figure that goes up to 1.0. 
 
 ![Wine_Attributes_Correlation_Heatmap](./figures/Wine_Attributes_Correlation_Heatmap.png)
 
