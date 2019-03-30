@@ -56,7 +56,7 @@ In the end, I tried to check witch other sets of constituents of the wines in th
 
 
 ### Discussion
-I think my question was answered in part. There is a correlation between alcohol and color_intensity over the average. But I am not sure about the use of KNN to determine the class with most samples of wines with a higher quantity of alcohol and color_intensity. Here, I assumed that the class_2 is the one because I predicted with KNN the neighbors closer to the maximum values found in the dataset for alcohol and color_internsity. Next steps are checking this with other methods more accurate. Also, other datasets with similar features could be checked to answer similar questions.
+I think my question was answered in part. There is a correlation between alcohol and color_intensity over the average. But I am not sure about the use of KNN to determine the class with most samples of wines with a higher quantity of alcohol and color_intensity. Here, I assumed that the class_2 is the one because I predicted with KNN the neighbors closer to the maximum values found in the dataset for alcohol and color_intensity. Next steps are checking this with other methods more accurate. Also, other datasets with similar features could be checked to answer similar questions.
 
 ### References
 
